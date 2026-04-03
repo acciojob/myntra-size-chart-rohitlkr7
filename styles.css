@@ -14,8 +14,8 @@ table {
 }
 
 thead {
-    background-color: #222;
-    color: white;
+    background-color: brown;
+    color: whitesmoke;
 }
 
 th, td {
@@ -34,6 +34,6 @@ tbody tr:nth-child(even) {
 }
 
 tbody tr:hover {
-    background-color: #e6f2ff;
+    background-color: saddlebrown;
     cursor: pointer;
 }
